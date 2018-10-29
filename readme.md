@@ -5,7 +5,7 @@
 
 **ISP:** se cumple
 
-**SRP:** se cumple
+**SRP:** no se cumple porque tiene varias razones de cambio (depende cual condicion se cumpla)
 
 
 ## Ejercicio 2
